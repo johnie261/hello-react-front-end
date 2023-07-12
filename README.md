@@ -21,6 +21,7 @@
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Authors](#-authors)
+  - [🔭 Future Features](#future-features)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -97,6 +98,12 @@ Here is the [Back-End](https://github.com/johnie261/hello-rails-back-end) of the
 - LinkedIn: [John Njoroge](https://www.linkedin.com/in/muturijohn/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Improve UI design]**
+
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 <!-- CONTRIBUTING -->
 
