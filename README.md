@@ -91,7 +91,7 @@ Here is the [Back-End](https://github.com/johnie261/hello-rails-back-end) of the
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Prantosh Biswas**
+👤 **JOhnie**
 
 - GitHub: [@johnie261](https://github.com/johnie261)
 - LinkedIn: [John Njoroge](https://www.linkedin.com/in/muturijohn/)
